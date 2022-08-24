@@ -1,5 +1,5 @@
 # BiNet
-This code is used to implement algorithms designed in Paper XX, including an end-to-end identification algorithm (BiNet) for common pathogens and transfer learning for the identification of uncommon pathogens 
+This code is used to implement algorithms designed in "Rapid identification of infectious pathogens via combining large-scale hyperspectral microscopic images and deep learning", including an end-to-end identification algorithm (BiNet) for common pathogens and transfer learning for the identification of uncommon pathogens 
 
 ## The description of each source code:
 
